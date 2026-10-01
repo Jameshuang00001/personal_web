@@ -140,3 +140,22 @@ nav {
     font-size: 14px;
     color: #777;
 }
+.about-page {
+    padding: 80px 50px;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-text h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.about-text p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #444;
+}
